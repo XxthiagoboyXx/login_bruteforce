@@ -1,6 +1,6 @@
 import requests
 
-url = 'http://ensino.solyd.com.br/login/index.php'
+url = 'http://siterandombrazil/login_page/'
 
 arquivo = open('wordlist.txt')
 linhas = arquivo.readlines()
