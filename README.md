@@ -1,2 +1,2 @@
-# login_bruteforce (Concluído)
-Script em Python que exemplifica como seria efetuado um bruteforce em uma determinada página de login.
+# Login WEB Bruteforce (Concluído)
+Script em Python que exemplifica como seria efetuado um bruteforce em uma determinada página web de login.
